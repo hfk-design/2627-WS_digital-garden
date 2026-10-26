@@ -31,14 +31,15 @@ The poster consists of two layers – each person creates one plant layer in one
 _KW 44 [26.10.–30.10.] | 10:00–17:00_  
 We start at **10:00 sharp** – please be on time.
 
-| Day | Date   | Time           | Info                                                                                                                                                      |
-| --- | ------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mon | 26.10. | 10:00–17:00    | **INTRO**<br>Welcome and RISO introduction. Afterwards our coding tutor Óscar introduces the basics of p5.js – we’re with you all day for coding support. |
-| Tue | 27.10. | 10:00–17:00    | **CODING TOGETHER**<br>Coding our plants: We continue coding together – I’m with you all day for coding support.                                          |
-| Wed | 28.10. | –              | **INDEPENDENT WORK**<br>Continue working on your code on your own.                                                                                        |
-| Thu | 29.10. | 10–13:00       | **SUGGESTED TRIP TO HAMBURG (self-organized)** <br>[Symposium _Artificial Agony_](#thu-2910--suggested-trip-to-hamburg)<br>HfBK Hamburg                   |
-| Thu | 29.10. | 18:00          | **PRINT FILE READY**<br>Each person has an exported image of their coded plant – so each group has their two monochrome layers ready for print.           |
-| Fri | 30.10. | 09:00–open end | **PRINTING**<br>Each group of 2 gets a one-hour printing slot.<br>We start early to leave some room for printing chaos.                                   |
+| Day | Date   | Time           | Info                                                                                                                                                                                                                                          |
+| --- | ------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mon | 26.10. | 10:00–17:00    | **INTRO**<br>Welcome and RISO introduction. Afterwards our coding tutor Óscar introduces the basics of p5.js – we’re with you all day for coding support.                                                                                     |
+| Tue | 27.10. | 10:00–17:00    | **CODING TOGETHER**<br>Coding our plants: We continue coding together – I’m with you all day for coding support.                                                                                                                              |
+| Wed | 28.10. | –              | **INDEPENDENT WORK**<br>Continue working on your code on your own.                                                                                                                                                                            |
+| Thu | 29.10. | 10–13:00       | **SUGGESTED TRIP TO HAMBURG (self-organized)** <br>[Symposium _Artificial Agony_](#thu-2910--suggested-trip-to-hamburg)<br>HfBK Hamburg                                                                                                       |
+| Thu | 29.10. | 18:00          | **PRINT FILE READY**<br>Each person has an exported image of their coded plant – so each group has their two monochrome layers ready for print.                                                                                               |
+| Thu | 29.10. | 18:00          | **DESIGN-TREFF (optional)**<br>_GridType Vol. 1 Launch x Comma Type_<br>Join us for the launch of the RISO-printed GridType publication at the [DesignTreff No. 50 @ Atelier Hund](https://bremen.design/events/designtreff-50-atelier-hund). |
+| Fri | 30.10. | 09:00–open end | **PRINTING**<br>Each group of 2 gets a one-hour printing slot.<br>We start early to leave some room for printing chaos.                                                                                                                       |
 
 ### MON 26.10. | Preparation for the Kick-Off
 
