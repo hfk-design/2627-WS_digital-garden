@@ -38,6 +38,7 @@ Wir starten **pünktlich um 10:00** – bitte seid rechtzeitig da.
 | MI  | 28.10. | –              | **SELBSTSTÄNDIGES ARBEITEN**<br>Ihr arbeitet eigenständig an eurem Code weiter.                                                                                               |
 | DO  | 29.10. | 10–13:00       | **EMPFOHLENER AUSFLUG NACH HAMBURG (eigenverantwortlich)**<br>[Symposium _Artificial Agony_](#do-2910--empfohlener-ausflug-nach-hamburg)<br>HfBK Hamburg                      |
 | DO  | 29.10. | 18:00          | **DRUCKDATEI FERTIG**<br>Jede Person hat ein exportiertes Bild ihrer programmierten Pflanze – so hat jede Gruppe ihre zwei monochromen Ebenen druckfertig.                    |
+| DO  | 29.10. | 18:00          | **DESIGN-TREFF (optional)**<br>_GridType Vol. 1 Launch x Comma Type_<br>Kommt mit zum Launch der RISO-gedruckten GridType-Publikation beim [DesignTreff No. 50 @ Atelier Hund](https://bremen.design/events/designtreff-50-atelier-hund). |
 | FR  | 30.10. | 09:00–open end | **PRINTING**<br>Jede 2er-Gruppe bekommt einen einstündigen Druck-Slot.<br>Wir starten früh, damit etwas Raum für Druck-Chaos bleibt.                                         |
 
 ### MO 26.10. | Vorbereitung für den Kick-Off
