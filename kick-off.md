@@ -42,7 +42,13 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
 - [Parametric Design @FHP](https://parametric-design.fh-potsdam.de/en/) – e.g. [Loops](https://parametric-design.fh-potsdam.de/en/2d/03_2-loops/)
 - [Tim Rodenbröker](https://trcc.timrodenbroeker.de/courses/)
 
-**Digital Gardens**
+# TUE | 27.10.
+
+## Why Code?
+
+  - [Why to learn how to code?](https://observablehq.com/d/2762ed08578b82ae)
+
+## Input | Digital Gardens
 
 <dl>
   <dt>Digital Garden</dt>
@@ -106,9 +112,26 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
   </dd>
 </dl>
 
-## Tipps
+## Additional Concepts
 
-- [Starter-Kit]()
+1. [Arrays](https://p5js.org/reference/p5/Array/)
+2. [Functions](https://p5js.org/reference/p5/function/)
+3. [For-Loops](https://p5js.org/reference/p5/for/)
+
+## Sketching Exercise
+
+Draw with limitations:
+  
+  1. min num of elements
+  2. only circles
+  3. only lines
+  4. one continuous line
+  5. random parameters
+
+## Getting started
+
+- [Starter-Kits](https://editor.p5js.org/oscarpekla/collections/fQzKp3Vh_)
+- [A3 Template](https://editor.p5js.org/oscarpekla/sketches/wPUlA1teU)
 - → [_Thoughts towards vibe-coding_](https://hfkbremen.sharepoint.com/:w:/s/S26BlockBTextTypeTools/IQDVSmIL7ODMSo9VGdRpfl-2AZVpDM3l9aiuDNqgzuRmd40)
 
 1. **Start small**  
@@ -123,9 +146,3 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
    ↳ https://www.instagram.com/nahuel.gerth/p/CrDZMAFLVhh/?hl=en&img_index=1
 1. **Try, Fail & Reiterate**  
    ↳ Embrace errors, glitches and frustration. Focus on the long-term process of learning instead of short-term outcomes.
-
-## Additional Concepts
-
-1. [Arrays](https://p5js.org/reference/p5/Array/)
-2. [Functions](https://p5js.org/reference/p5/function/)
-3. [For-Loops](https://p5js.org/reference/p5/for/)
