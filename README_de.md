@@ -38,7 +38,7 @@ Wir starten **pünktlich um 10:00** – bitte seid rechtzeitig da.
 | MI  | 11.11. | –           | **SELBSTSTÄNDIGES ARBEITEN**<br>Ihr arbeitet eigenständig an eurem Code weiter.                                                                                               |
 | DO  | 12.11. | 10:00–14:00 | **CODING TOGETHER**<br>Wir finalisieren unsere Poster-Layer.                                                                                                                  |
 | DO  | 12.11. | 14:00       | **DRUCKDATEI FERTIG**<br>Jede Person hat ein exportiertes Bild ihrer programmierten Pflanze – so hat jede Gruppe ihre zwei monochromen Ebenen druckfertig.                    |
-| FR  | 13.11. | 10:00–14:00 | **PRINTING**<br>Jede 2er-Gruppe bekommt einen einstündigen Druck-Slot.<br>Wir starten früh, damit etwas Raum für Druck-Chaos bleibt.                                          |
+| FR  | 13.11. | 10:00–14:00 | **PRINTING**<br>Jede 2er-Gruppe bekommt einen 15-30min Druck-Slot.<br>Wir starten früh, damit etwas Raum für Druck-Chaos bleibt.                                              |
 
 ### MO 9.11. | Vorbereitung für den Kick-Off
 

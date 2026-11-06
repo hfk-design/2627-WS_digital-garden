@@ -38,7 +38,7 @@ We start at **10:00 sharp** – please be on time.
 | Wed | 11.11. | –           | **INDEPENDENT WORK**<br>Continue working on your code on your own.                                                                                        |
 | Thu | 12.11. | 10:00–14:00 | **CODING TOGETHER**<br>Finishing your poster.                                                                                                             |
 | Thu | 12.11. | 14:00       | **PRINT FILE READY**<br>Each person has an exported image of their coded plant – so each group has their two monochrome layers ready for print.           |
-| Fri | 13.11. | 10:00–14:00 | **PRINTING**<br>Each group of 2 gets a one-hour printing slot.<br>We start early to leave some room for printing chaos.                                   |
+| Fri | 13.11. | 10:00–14:00 | **PRINTING**<br>Each group of 2 gets a 15-30min printing slot.<br>We start early to leave some room for printing chaos.                                   |
 
 ### MON 9.11. | Preparation for the Kick-Off
 
