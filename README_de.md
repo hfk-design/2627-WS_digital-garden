@@ -28,7 +28,7 @@ Das Poster besteht aus zwei Ebenen – jede Person gestaltet eine Pflanzen-Ebene
 
 ## Termine & Zeiten
 
-_KW 46 [9.11.–13.11.] | 10:00–14:00 / 17:00_  
+_KW 46 [9.11.–13.11.] | 10:00–17:00_  
 Wir starten **pünktlich um 10:00** – bitte seid rechtzeitig da.
 
 | Tag | Datum  | Zeit        | Info                                                                                                                                                                          |
@@ -36,14 +36,13 @@ Wir starten **pünktlich um 10:00** – bitte seid rechtzeitig da.
 | MO  | 9.11.  | 10:00–17:00 | **INTRO**<br>Begrüßung und RISO-Einführung. Anschließend führt euch unser Coding-Tutor Óscar in die Grundlagen von p5.js ein – wir sind den ganzen Tag für Coding-Support da. |
 | DI  | 10.11. | 10:00–14:00 | **CODING TOGETHER**<br>Wir programmieren unsere Pflanzen: Wir coden gemeinsam weiter – ich bin den ganzen Tag für Coding-Support da.                                          |
 | MI  | 11.11. | –           | **SELBSTSTÄNDIGES ARBEITEN**<br>Ihr arbeitet eigenständig an eurem Code weiter.                                                                                               |
-| DO  | 12.11. | 10:00–14:00 | **CODING TOGETHER**<br>Wir finalisieren unsere Poster-Layer.                                                                                                                  |
-| DO  | 12.11. | 14:00       | **DRUCKDATEI FERTIG**<br>Jede Person hat ein exportiertes Bild ihrer programmierten Pflanze – so hat jede Gruppe ihre zwei monochromen Ebenen druckfertig.                    |
-| FR  | 13.11. | 10:00–14:00 | **PRINTING**<br>Jede 2er-Gruppe bekommt einen 15-30min Druck-Slot.<br>Wir starten früh, damit etwas Raum für Druck-Chaos bleibt.                                              |
+| DO  | 12.11. | 10:17:00    | **CODING TOGETHER**<br>Wir finalisieren unsere Poster-Layer.                                                                                                                  |
+| DO  | 12.11. | 17:00       | **DRUCKDATEI FERTIG**<br>Jede Person hat ein exportiertes Bild ihrer programmierten Pflanze – so hat jede Gruppe ihre zwei monochromen Ebenen druckfertig.                    |
+| FR  | 13.11. | 09:00–14:00 | **PRINTING**<br>Jede 2er-Gruppe bekommt einen 15-30min Druck-Slot.<br>Wir starten früh, damit etwas Raum für Druck-Chaos bleibt.                                              |
 
 ### MO 9.11. | Vorbereitung für den Kick-Off
 
-- **Laptop mitbringen** – ihr müsst im [p5.js online Editor](https://editor.p5js.org/) arbeiten können.
-  (Falls ihr nur ein Tablet habt, braucht ihr eine externe Tastatur.)
+- **Laptop mitbringen** – wir arbeiten im [p5.js online Editor](https://editor.p5js.org/) (hier könnt ihr euch schon einen Account anlegen). Falls ihr nur ein Tablet habt, braucht ihr eine externe Tastatur.
 - **Eduroam:** Stellt sicher, dass euer WLAN funktioniert<br>→ [Anleitung](https://hfkbremen.sharepoint.com/sites/ITSupport/SitePages/wifi.aspx), [IT Support](https://www.hfk-bremen.de/en/about-the-university/administration/department-5-controlling-and-it).
 - **Key-Chip:** Tragt eure Key-Chip-Nummer in [diese Liste](https://hfkbremen.sharepoint.com/:x:/s/W26ADigitalGarden/cQrdr0uYYQx5SZjrmr4azhB_EgUBaw8E1KiURzK7mqzXP927SQ) ein
 

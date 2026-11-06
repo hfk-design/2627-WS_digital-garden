@@ -28,7 +28,7 @@ The poster consists of two layers – each person creates one plant layer in one
 
 ## Dates & Times
 
-_KW 46 [9.11.–13.11.] | 10:00–14:00 / 17:00_  
+_KW 46 [9.11.–13.11.] | 10:00–17:00_  
 We start at **10:00 sharp** – please be on time.
 
 | Day | Date   | Time        | Info                                                                                                                                                      |
@@ -36,14 +36,13 @@ We start at **10:00 sharp** – please be on time.
 | Mon | 9.11.  | 10:00–17:00 | **INTRO**<br>Welcome and RISO introduction. Afterwards our coding tutor Óscar introduces the basics of p5.js – we’re with you all day for coding support. |
 | Tue | 10.11. | 10:00–14:00 | **CODING TOGETHER**<br>Coding our plants: We continue coding together – I’m with you all day for coding support.                                          |
 | Wed | 11.11. | –           | **INDEPENDENT WORK**<br>Continue working on your code on your own.                                                                                        |
-| Thu | 12.11. | 10:00–14:00 | **CODING TOGETHER**<br>Finishing your poster.                                                                                                             |
-| Thu | 12.11. | 14:00       | **PRINT FILE READY**<br>Each person has an exported image of their coded plant – so each group has their two monochrome layers ready for print.           |
+| Thu | 12.11. | 10:00–17:00 | **CODING TOGETHER**<br>Finishing your poster.                                                                                                             |
+| Thu | 12.11. | 17:00       | **PRINT FILE READY**<br>Each person has an exported image of their coded plant – so each group has their two monochrome layers ready for print.           |
 | Fri | 13.11. | 10:00–14:00 | **PRINTING**<br>Each group of 2 gets a 15-30min printing slot.<br>We start early to leave some room for printing chaos.                                   |
 
 ### MON 9.11. | Preparation for the Kick-Off
 
-- **Bring a laptop** – you need to be able to work in the [p5.js online editor](https://editor.p5js.org/).
-  (If you only have a tablet, you will need an external keyboard.)
+- **Bring a laptop** – we are working in the [p5.js online editor](https://editor.p5js.org/) (you can already make an account). If you only have a tablet, you’ll need an external keyboard.
 - **Eduroam:** Make sure your Wi-Fi works<br>→ [Guide](https://hfkbremen.sharepoint.com/sites/ITSupport/SitePages/wifi.aspx), [IT Support](https://www.hfk-bremen.de/en/about-the-university/administration/department-5-controlling-and-it).
 - **Key chip:** add your key chip number in [this list](https://hfkbremen.sharepoint.com/:x:/s/W26ADigitalGarden/cQrdr0uYYQx5SZjrmr4azhB_EgUBaw8E1KiURzK7mqzXP927SQ)
 
