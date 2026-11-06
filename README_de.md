@@ -28,7 +28,7 @@ Das Poster besteht aus zwei Ebenen – jede Person gestaltet eine Pflanzen-Ebene
 
 ## Termine & Zeiten
 
-_KW 46 [9.11.–13.11.] | 10:00–17:00_
+_KW 46 [9.11.–13.11.] | 10:00–14:00 / 17:00_  
 Wir starten **pünktlich um 10:00** – bitte seid rechtzeitig da.
 
 | Tag | Datum  | Zeit        | Info                                                                                                                                                                          |
