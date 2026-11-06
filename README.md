@@ -15,7 +15,7 @@ In this workshop, we will use creative coding to create a RISO-printed poster. W
 ## Course Info
 
 - **Instructor:** Prof. Katharina Nejdl, HfK Druckpool (RISO), Óscar Peña Kläschen (Coding Tutor)
-- **Event type:** Workshop #2 (ID.BA.GL1.022)
+- **Event type:** Workshop #4 (ID.BA.GL1.041)
 - **Credits:** 2 CP (50 hours’ workload; 25 hours per credit point, including self-study time)
 - **Language:** German – suitable for English-speaking students
 - **Room:** C.A.T.E. / 1.04.010 / Segment 4, ground floor
@@ -28,44 +28,25 @@ The poster consists of two layers – each person creates one plant layer in one
 
 ## Dates & Times
 
-_KW 44 [26.10.–30.10.] | 10:00–17:00_  
+_KW 46 [9.11.–13.11.] | 10:00–17:00_
 We start at **10:00 sharp** – please be on time.
 
-| Day | Date   | Time           | Info                                                                                                                                                                                                                                          |
-| --- | ------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mon | 26.10. | 10:00–17:00    | **INTRO**<br>Welcome and RISO introduction. Afterwards our coding tutor Óscar introduces the basics of p5.js – we’re with you all day for coding support.                                                                                     |
-| Tue | 27.10. | 10:00–17:00    | **CODING TOGETHER**<br>Coding our plants: We continue coding together – I’m with you all day for coding support.                                                                                                                              |
-| Wed | 28.10. | –              | **INDEPENDENT WORK**<br>Continue working on your code on your own.                                                                                                                                                                            |
-| Thu | 29.10. | 10–13:00       | **SUGGESTED TRIP TO HAMBURG (self-organized)** <br>[Symposium _Artificial Agony_](#thu-2910--suggested-trip-to-hamburg)<br>HfBK Hamburg                                                                                                       |
-| Thu | 29.10. | 18:00          | **PRINT FILE READY**<br>Each person has an exported image of their coded plant – so each group has their two monochrome layers ready for print.                                                                                               |
-| Thu | 29.10. | 18:00          | **DESIGN-TREFF (optional)**<br>_GridType Vol. 1 Launch x Comma Type_<br>Join us for the launch of the RISO-printed GridType publication at the [DesignTreff No. 50 @ Atelier Hund](https://bremen.design/events/designtreff-50-atelier-hund). |
-| Fri | 30.10. | 09:00–open end | **PRINTING**<br>Each group of 2 gets a one-hour printing slot.<br>We start early to leave some room for printing chaos.                                                                                                                       |
+| Day | Date   | Time        | Info                                                                                                                                                      |
+| --- | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mon | 9.11.  | 10:00–17:00 | **INTRO**<br>Welcome and RISO introduction. Afterwards our coding tutor Óscar introduces the basics of p5.js – we’re with you all day for coding support. |
+| Tue | 10.11. | 10:00–14:00 | **CODING TOGETHER**<br>Coding our plants: We continue coding together – I’m with you all day for coding support.                                          |
+| Wed | 11.11. | –           | **INDEPENDENT WORK**<br>Continue working on your code on your own.                                                                                        |
+| Thu | 12.11. | 10:00–14:00 | **CODING TOGETHER**<br>Finishing your poster.                                                                                                             |
 
-### MON 26.10. | Preparation for the Kick-Off
+| Thu | 12.11. | 14:00 | **PRINT FILE READY**<br>Each person has an exported image of their coded plant – so each group has their two monochrome layers ready for print. |
+| Fri | 13.11. | 10:00–14:00 | **PRINTING**<br>Each group of 2 gets a one-hour printing slot.<br>We start early to leave some room for printing chaos. |
+
+### MON 9.11. | Preparation for the Kick-Off
 
 - **Bring a laptop** – you need to be able to work in the [p5.js online editor](https://editor.p5js.org/).
   (If you only have a tablet, you will need an external keyboard.)
 - **Eduroam:** Make sure your Wi-Fi works<br>→ [Guide](https://hfkbremen.sharepoint.com/sites/ITSupport/SitePages/wifi.aspx), [IT Support](https://www.hfk-bremen.de/en/about-the-university/administration/department-5-controlling-and-it).
 - **Key chip:** add your key chip number in [this list](https://hfkbremen.sharepoint.com/:x:/s/W26ADigitalGarden/cQrdr0uYYQx5SZjrmr4azhB_EgUBaw8E1KiURzK7mqzXP927SQ)
-
-### THU 29.10. | Suggested trip to Hamburg
-
-**[Symposium _Artificial Agony_](https://www.instagram.com/p/DedoGeRiODs/?img_index=1)**  
-10:00–13:00  
-HFBK Hamburg | Extended Library  
-Lerchenfeld 2, room 217–219, 22081 Hamburg
-
-_with Silvio Lorusso, Nora O’ Murchú and Simone C Niquille_
-
-> Agony is as much misery as passion. During this colloquium we will discuss questions of design practice and artistic research with software as material. While recently the artificial has become synonymous with AI, processes of imitation and simulation have long been crucial to creating. With presentations by invited guests and room for discussion, Artificial Agony attempts to reposition processes of making and critical investigation in a time when the artificial has become synonymous with the unreal and agony is the torment of creation under prompt-efficiency. As a counter argument, artificial agony offers space to debate software as material in all its possibilities.
-
----
-
-On Thursday, there’s a symposium at the HFBK Hamburg that sounds really exciting, and I highly recommend it. It is organised by the Klasse Digitale Grafik.
-
-Since I wasn’t able to submit the field trip request in time, this isn’t a mandatory field trip – it’s a recommendation and a trip you organise on your own. Participation is voluntary and doesn’t count toward your coursework.
-
-If you’re interested, the symposium is sure to be exciting for anyone interested in a critical approach to digital design. There’s a good Regio train connection to Hamburg. I’ll be there in person from 10:00 to 13:00.
 
 # Requirements
 

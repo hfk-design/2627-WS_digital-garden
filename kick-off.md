@@ -1,11 +1,11 @@
-# Kick-Off | 26.10.
+# Kick-Off | 9.11.
 
 ## 10–10:30 | RISO-Intro
 
 ## 10:30–10:45 | Intro
 
 - Name & relationship to plants
-- Dates & and optional trip
+- Dates & schedule
 - Assignment & requirements
 - [Why creative coding? – by Thomet & Nanni](https://observablehq.com/d/2762ed08578b82ae)
 
@@ -42,7 +42,7 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
 - [Parametric Design @FHP](https://parametric-design.fh-potsdam.de/en/) – e.g. [Loops](https://parametric-design.fh-potsdam.de/en/2d/03_2-loops/)
 - [Tim Rodenbröker](https://trcc.timrodenbroeker.de/courses/)
 
-# TUE | 27.10.
+# TUE | 10.11.
 
 ## Why Code?
 

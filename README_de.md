@@ -15,7 +15,7 @@ In diesem Workshop werden wir mithilfe von Creative Coding ein RISO-gedrucktes P
 ## Kursinfo
 
 - **Lehrende:** Prof. Katharina Nejdl, HfK Druckpool (RISO), Óscar Peña Kläschen (Coding-Tutor)
-- **Veranstaltungsart:** Workshop #2 (ID.BA.GL1.022)
+- **Veranstaltungsart:** Workshop #4 (ID.BA.GL1.041)
 - **Credits:** 2 CP (50 Stunden Workload; 1 CP entspricht 25 h, inklusive Selbstlernzeit)
 - **Sprache:** Deutsch – geeignet für Englisch sprechende Studierende
 - **Raum:** C.A.T.E. / 1.04.010 / Segment 4, EG
@@ -28,44 +28,24 @@ Das Poster besteht aus zwei Ebenen – jede Person gestaltet eine Pflanzen-Ebene
 
 ## Termine & Zeiten
 
-_KW 44 [26.10.–30.10.] | 10:00–17:00_  
+_KW 46 [9.11.–13.11.] | 10:00–17:00_
 Wir starten **pünktlich um 10:00** – bitte seid rechtzeitig da.
 
-| Tag | Datum  | Zeit           | Info                                                                                                                                                                          |
-| --- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| MO  | 26.10. | 10:00–17:00    | **INTRO**<br>Begrüßung und RISO-Einführung. Anschließend führt euch unser Coding-Tutor Óscar in die Grundlagen von p5.js ein – wir sind den ganzen Tag für Coding-Support da. |
-| DI  | 27.10. | 10:00–17:00    | **CODING TOGETHER**<br>Wir programmieren unsere Pflanzen: Wir coden gemeinsam weiter – ich bin den ganzen Tag für Coding-Support da.                                          |
-| MI  | 28.10. | –              | **SELBSTSTÄNDIGES ARBEITEN**<br>Ihr arbeitet eigenständig an eurem Code weiter.                                                                                               |
-| DO  | 29.10. | 10–13:00       | **EMPFOHLENER AUSFLUG NACH HAMBURG (eigenverantwortlich)**<br>[Symposium _Artificial Agony_](#do-2910--empfohlener-ausflug-nach-hamburg)<br>HfBK Hamburg                      |
-| DO  | 29.10. | 18:00          | **DRUCKDATEI FERTIG**<br>Jede Person hat ein exportiertes Bild ihrer programmierten Pflanze – so hat jede Gruppe ihre zwei monochromen Ebenen druckfertig.                    |
-| DO  | 29.10. | 18:00          | **DESIGN-TREFF (optional)**<br>_GridType Vol. 1 Launch x Comma Type_<br>Kommt mit zum Launch der RISO-gedruckten GridType-Publikation beim [DesignTreff No. 50 @ Atelier Hund](https://bremen.design/events/designtreff-50-atelier-hund). |
-| FR  | 30.10. | 09:00–open end | **PRINTING**<br>Jede 2er-Gruppe bekommt einen einstündigen Druck-Slot.<br>Wir starten früh, damit etwas Raum für Druck-Chaos bleibt.                                         |
+| Tag | Datum  | Zeit        | Info                                                                                                                                                                          |
+| --- | ------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MO  | 9.11.  | 10:00–17:00 | **INTRO**<br>Begrüßung und RISO-Einführung. Anschließend führt euch unser Coding-Tutor Óscar in die Grundlagen von p5.js ein – wir sind den ganzen Tag für Coding-Support da. |
+| DI  | 10.11. | 10:00–14:00 | **CODING TOGETHER**<br>Wir programmieren unsere Pflanzen: Wir coden gemeinsam weiter – ich bin den ganzen Tag für Coding-Support da.                                          |
+| MI  | 11.11. | –           | **SELBSTSTÄNDIGES ARBEITEN**<br>Ihr arbeitet eigenständig an eurem Code weiter.                                                                                               |
+| DO  | 12.11. | 10:00–14:00 | **CODING TOGETHER**<br>Wir finalisieren unsere Poster-Layer.                                                                                                                  |
+| DO  | 12.11. | 14:00       | **DRUCKDATEI FERTIG**<br>Jede Person hat ein exportiertes Bild ihrer programmierten Pflanze – so hat jede Gruppe ihre zwei monochromen Ebenen druckfertig.                    |
+| FR  | 13.11. | 10:00–14:00 | **PRINTING**<br>Jede 2er-Gruppe bekommt einen einstündigen Druck-Slot.<br>Wir starten früh, damit etwas Raum für Druck-Chaos bleibt.                                          |
 
-### MO 26.10. | Vorbereitung für den Kick-Off
+### MO 9.11. | Vorbereitung für den Kick-Off
 
 - **Laptop mitbringen** – ihr müsst im [p5.js online Editor](https://editor.p5js.org/) arbeiten können.
   (Falls ihr nur ein Tablet habt, braucht ihr eine externe Tastatur.)
 - **Eduroam:** Stellt sicher, dass euer WLAN funktioniert<br>→ [Anleitung](https://hfkbremen.sharepoint.com/sites/ITSupport/SitePages/wifi.aspx), [IT Support](https://www.hfk-bremen.de/en/about-the-university/administration/department-5-controlling-and-it).
 - **Key-Chip:** Tragt eure Key-Chip-Nummer in [diese Liste](https://hfkbremen.sharepoint.com/:x:/s/W26ADigitalGarden/cQrdr0uYYQx5SZjrmr4azhB_EgUBaw8E1KiURzK7mqzXP927SQ) ein
-
-### DO 29.10. | Empfohlener Ausflug nach Hamburg
-
-**[Symposium _Artificial Agony_](https://www.instagram.com/p/DedoGeRiODs/?img_index=1)**  
-10:00–13:00  
-HFBK Hamburg | Extended Library  
-Lerchenfeld 2, Raum 217–219, 22081 Hamburg
-
-_mit Silvio Lorusso, Nora O’ Murchú und Simone C Niquille_
-
-> Agony is as much misery as passion. During this colloquium we will discuss questions of design practice and artistic research with software as material. While recently the artificial has become synonymous with AI, processes of imitation and simulation have long been crucial to creating. With presentations by invited guests and room for discussion, Artificial Agony attempts to reposition processes of making and critical investigation in a time when the artificial has become synonymous with the unreal and agony is the torment of creation under prompt-efficiency. As a counter argument, artificial agony offers space to debate software as material in all its possibilities.
-
----
-
-Am Donnerstag gibt es ein Symposium an der HFBK Hamburg, das sehr spannend ist und das ich euch gerne empfehlen will. Es wird von der Klasse Digitale Grafik organisiert.
-
-Da ich den Exkursionsantrag nicht mehr rechtzeitig stellen konnte, handelt es sich nicht um eine verpflichtende Exkursion – sondern um eine Empfehlung und einen eigenverantwortlichen Trip. Die Teilnahme ist freiwillig und nicht Teil der Studienleistung.
-
-Falls ihr Lust habt: Das Symposium ist sicherlich spannend für alle, die sich für einen kritischen Umgang mit digitalem Design interessieren. Es gibt eine gute Regio-Verbindung nach Hamburg. Ich bin von 10:00 bis 13:00 auch persönlich vor Ort.
 
 # Anforderungen
 
